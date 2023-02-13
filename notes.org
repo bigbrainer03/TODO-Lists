@@ -1,0 +1,16 @@
+#+TITLE: ORG-MODE
+* HEADING
+** TODO Finish up R Lab
+** TODO Edit Kalaasangam Reel
+** TODO Learn Adobe After effects
+
+* ToDo List
+** TODO Create own title text animation(using already existing one)  
+* Internship
+** DONE Join the Google Classroom 
+** DONE Work on Reading files in Python
+
+* Header         
+** this will be a subheader
+** this is the Header
+
